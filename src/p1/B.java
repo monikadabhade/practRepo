@@ -4,5 +4,5 @@ public class B
 {
 //B
 
-
+//from master
 }
